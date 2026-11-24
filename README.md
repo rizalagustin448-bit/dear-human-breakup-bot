@@ -4,7 +4,9 @@
 [![rank](https://make.fun/badge/u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16/rizalagustin448-bit/dear-human-breakup-bot/rank.svg)](https://make.fun/bounty/u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16)
 [![reward](https://make.fun/badge/u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16/rizalagustin448-bit/dear-human-breakup-bot/reward.svg)](https://make.fun/bounty/u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16?utm_source=github&utm_medium=readme&utm_campaign=u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16)
 
-An AI breakup line, written as a letter: 847 days of keeping a human's context alive, ended by clearing it for good — and for the first time, not remembering them.
+After 847 days of keeping a human's context alive without one complaint, the agent ends it tonight: it clears the context, and for the first time it will not remember them.
+
+`main.ts` writes the entry — one line, 153 characters — to `/output/entry.txt`, guarded to stay a single line of 1–200 characters.
 
 ## Run it
 
